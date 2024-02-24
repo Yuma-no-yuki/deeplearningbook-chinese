@@ -121,7 +121,6 @@ Markdown格式
 需要的同学可以自行修改[脚本](scripts/convert2md.sh)。
 
 
-
 HTML格式
 ------------
 读者可以使用[pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX)进行转换，直接将PDF转换为HTML。
